@@ -1,0 +1,21 @@
+<Particles id="tsparticles" [options]="particlesConfig"></Particles>
+<main class="box">
+  <h2>Login</h2>
+  <form>
+    <div class="inputBox">
+      <label for="userName">Username</label>
+      <input type="text" name="userName" id="userName" placeholder="type your username" required/>
+    </div>
+    <div class="inputBox">
+      <label for="userPassword">Password</label>
+      <input type="password" name="userPassword" id="userPassword" placeholder="type your password"
+             required/>
+    </div>
+    <div>
+      <button type="submit" name="" style="float: left;">Submit</button>
+      <a class="button" [routerLink]="'/register'" style="float: left;">Register</a>
+    </div>
+  </form>
+</main>
+<footer>
+</footer>
