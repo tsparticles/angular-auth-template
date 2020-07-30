@@ -1,27 +1,31 @@
-# AngularAuthTemplate
+# tsParticles Angular Authentication Template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+tsParticles Simple Auth HTML Template for Angular Web Sites/Applications
 
-## Development server
+## Login Page Preview
+[![login](https://raw.githubusercontent.com/tsparticles/angular-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/angular-auth-template/login)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+See working preview [here](https://tsparticles.github.io/angular-auth-template/login)
 
-## Code scaffolding
+## Register Page Preview
+[![register](https://raw.githubusercontent.com/tsparticles/angular-auth-template/master/__screenshots/register.png)](https://tsparticles.github.io/angular-auth-template/register)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+See working preview [here](https://tsparticles.github.io/angular-auth-template/register)
 
-## Build
+## What is tsParticles
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+[tsParticles](https://github.com/matteobruni/tsparticles) is a lightweight library for easily creating particles animations in your websites or web applications.
 
-## Running unit tests
+The [tsParticles](https://github.com/matteobruni/tsparticles) library is ready to be used in standard JavaScript, React, Vue.js, Angular, Svelte, jQuery, Preact, Inferno.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Angular tsParticles
 
-## Running end-to-end tests
+The Angular official [tsParticles](https://github.com/matteobruni/tsparticles) library is `ng-particles`.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+You read more about `ng-tsparticles` [here](https://github.com/matteobruni/tsparticles/blob/master/components/angular/README.md) 
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Want to see more particles demos? [Checkout this collection](https://codepen.io/collection/DPOage)
+
+Want to see more templates or want to share yours? [Checkout this README](https://github.com/tsparticles/templates)
