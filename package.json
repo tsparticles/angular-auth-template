@@ -25,7 +25,7 @@
     "ng-particles": "^2.0.5",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
-    "tsparticles": "^1.17.5",
+    "tsparticles": "^1.17.10",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
