@@ -24,7 +24,7 @@
     "@angular/router": "~10.1.0",
     "ng-particles": "^2.0.11",
     "rxjs": "~6.6.2",
-    "tslib": "^2.0.0",
+    "tslib": "^2.0.1",
     "tsparticles": "^1.17.10",
     "zone.js": "~0.11.1"
   },
