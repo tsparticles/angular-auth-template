@@ -5,12 +5,16 @@ tsParticles Simple Auth HTML Template for Angular Web Sites/Applications
 ## Login Page Preview
 [![login](https://raw.githubusercontent.com/tsparticles/angular-auth-template/master/__screenshots/login.png?raw=true)](https://tsparticles.github.io/angular-auth-template/login)
 
-See working preview [here](https://tsparticles.github.io/angular-auth-template/login)
+See working preview [here](https://tsparticles.github.io/angular-auth-template)
+
+*The template won't display directly, follow the **Login** link*
 
 ## Register Page Preview
 [![register](https://raw.githubusercontent.com/tsparticles/angular-auth-template/master/__screenshots/register.png?raw=true)](https://tsparticles.github.io/angular-auth-template/register)
 
-See working preview [here](https://tsparticles.github.io/angular-auth-template/register)
+See working preview [here](https://tsparticles.github.io/angular-auth-template)
+
+*The template won't display directly, follow the **Register** link*
 
 ## What is tsParticles
 
