@@ -34,7 +34,7 @@
     "@angular/compiler-cli": "~16.2.0",
     "@types/jasmine": "~4.3.0",
     "@types/jasminewd2": "~2.0.8",
-    "@types/node": "^20.0.0",
+    "@types/node": "^18.11.18",
     "codelyzer": "^6.0.0",
     "gh-pages": "^6.0.0",
     "jasmine-core": "~5.1.0",
